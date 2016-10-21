@@ -1,2 +1,0 @@
-class LeftDrawer
-end
